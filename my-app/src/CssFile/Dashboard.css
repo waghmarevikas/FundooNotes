@@ -1,0 +1,9 @@
+.signIn{
+    display: flex;
+    align-content: center;
+
+}
+.avtar{
+    display: flex;
+    flex-direction: column;
+}

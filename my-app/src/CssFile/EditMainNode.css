@@ -1,0 +1,8 @@
+.pinIcon {
+    display: flex;
+    /* flex-direction: column; */
+    margin-right : '21px';
+    margin-left : '32px';
+    margin-top : '8px';
+    background-color: aqua;
+}

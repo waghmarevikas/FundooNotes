@@ -1,0 +1,61 @@
+.Loginpage {
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  /* align-items: center; */
+  height: auto;
+  width: auto;
+  /* margin: 8em; */
+  /* border: 1px solid black; */
+  /* border-radius: 10px; */
+    
+  }
+  .signIn{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 500px;
+    border: 2px solid rgb(19, 18, 18);
+     border-radius: 10px ;
+   /* border-radius: 10px solid grey; */
+    margin-left: 431px;
+    margin-right: 294px;
+    margin-top: 181px;
+    margin-bottom: 90px;
+  }
+  .submit{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px 20px;
+  }
+  .password-icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px ;
+    flex-flow: column;
+    top: 20px;
+  }
+  .username{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px;
+    flex-flow: column;
+  }
+  .titleLogin{
+    display: flex;
+    align-items: center;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 11px;
+    font-size:large;
+  }
+  
+  .labelHeight{
+    line-height: 0px;
+  }

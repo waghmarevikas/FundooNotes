@@ -1,0 +1,94 @@
+.Registration{
+    display : flex;
+    flex-direction : column;
+    justify-content : center;
+     /* align-items: center; */
+     padding-left : 1px;
+    height : auto;
+    width : 700px;
+    padding : 20px;
+    padding-left: 1px;
+     margin: 400px; 
+    margin-top: 150px; 
+    border: 1px solid black ;
+    border-radius: 10px;
+    /* float: right; */
+}
+.h1div{
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* width: 30%; */
+    /* padding: 20px; */
+    font-size: x-large;
+    margin-left: 18px; 
+}
+.h2div{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: x-large;
+    /* width: 30%; */
+    /* padding: 20px; */
+    margin-left: 18px; 
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 70%;
+    padding: 20px;
+    margin-left:1px;
+    padding-left: 1px;
+    bottom: 60px;
+}
+.pass{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    padding: 20px;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 60%;
+    /* padding: 20px; */
+    margin-left: 18px;
+    
+}
+      /* .firstname,
+      .lastname,
+      .username,
+      .password
+      /* .confirm */
+      /* { 
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 15px;
+      } */ 
+.buttondiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 30%;
+    padding: 20px;
+    margin-right: 20px; 
+    
+}
+.primary{
+    display: flex;
+    margin-left: 20px;
+
+}
+.space{
+    display: flex;
+    /* flex-direction: column; */
+    /* padding: 20px; */
+}
+/* .outlined-basic:focus{
+    background-color: red;
+} */

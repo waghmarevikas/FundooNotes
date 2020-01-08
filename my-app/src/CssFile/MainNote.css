@@ -1,0 +1,60 @@
+    .mainNote {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 10px;
+        flex-direction: column;
+    }
+
+    .pinImage {
+        display: flex;
+        margin-right:'3px';
+        margin-top: '0px';
+        margin-left: '3px';
+    }
+    
+    /* .root1 {
+        padding : '2px 4px';
+        display : 'flex';
+        flex-direction : 'column';
+        align-items : 'center';
+        background-color : 'white';
+        border-radius : 'none';
+        border-color : 'white';
+        width : 600,
+    }
+    
+    .root2 {
+        display : 'flex';
+        flex-direction :'row';
+        alignItems : 'center',
+        height : 'auto',
+        width : 600,
+        borderRadius : 'none',
+        border : '1px solid #fff',
+        boxShadow: 'none',
+        
+    },
+    
+    input : {
+        marginLeft : theme.spacing(1),
+        flex : 1,
+    },
+    
+    iconButton : {
+        padding : '20px',
+        width : '1em',
+        opacity : '2',
+    },
+
+    closeButton : {
+        padding : '20px'
+    },
+
+    pinIcon : {
+        marginRight : '21px',
+        marginLeft : '32px',
+        marginTop : '8px',
+    },
+
+     */

@@ -1,0 +1,9 @@
+.pinCard {
+    display: flex;
+    padding-top: '4px';
+    padding-right: '8px';
+}
+.noteCard {
+    display: flex;
+    
+}
